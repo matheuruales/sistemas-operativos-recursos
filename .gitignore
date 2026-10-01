@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+alertas_ram.txt
+archivo_grande.txt
